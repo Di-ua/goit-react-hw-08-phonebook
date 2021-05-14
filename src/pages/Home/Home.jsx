@@ -11,8 +11,9 @@ const HomePage = () => {
           Welcome to your Personal Phonebook!
         </h1>
         <p className={styles.text}>
-        My name is Diana Kuzmina and this is my first application! Here you can find a lot of useful things! This is the place where you can safely keep all your contacts.
+        My name is Diana Kuzmina and this is my first application! <br /> Here you can find a lot of useful things! <br /> This is the place where you can safely keep all your contacts.
         </p>
+        
         <h2 className={styles.title}>Let's start &#128640;</h2>
         <p className={styles.text}>
         But first register!{' '}
